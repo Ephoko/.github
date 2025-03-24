@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <a href="https://google.ca">
+  <a href="https://github.com/Ephoko/docs">
     <img alt="docs badge" src="./assets/badges/docs.svg" />
   </a>
 </div>
