@@ -9,3 +9,23 @@
 <p align="center">
   Ephoko Ephoko Ephoko
 </p>
+
+<div align="center">
+  <a href="https://google.ca">
+    <img alt="PLACEHOLDER" src="https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg" />
+  </a>
+  <a href="https://google.ca">
+    <img alt="PLACEHOLDER" src="https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg" />
+  </a>
+  <a href="https://google.ca">
+    <img alt="PLACEHOLDER" src="https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://google.ca">
+    <img alt="PLACEHOLDER" src="https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg" />
+  </a>
+  <a href="https://google.ca">
+    <img alt="PLACEHOLDER" src="https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg" />
+  </a>
+</div>
