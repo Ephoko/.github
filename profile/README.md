@@ -1,3 +1,11 @@
-# Welcome to My Sample
+<h1 align="center">
+  <a href="https://www.google.ca" title="Ephoko">
+    <img alt="Ephoko logo" src="./branding/logo.png" width="200px" height="200px"/>
+  </a>
+  <br />
+  
+</h1>
 
-This is a templated file managed by Terraform.
+<p align="center">
+  
+</p>
