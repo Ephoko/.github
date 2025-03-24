@@ -3,9 +3,9 @@
     <img alt="Ephoko logo" src="./branding/logo.png" width="200px" height="200px"/>
   </a>
   <br />
-  
+  Ephoko
 </h1>
 
 <p align="center">
-  
+  Ephoko Ephoko Ephoko
 </p>
